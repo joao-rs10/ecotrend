@@ -55,7 +55,7 @@ const CartSidebar = ({ carrinho, isCarrinhoAberto, setIsCarrinhoAberto, removerD
           disabled={carrinho.length === 0 || loading}
           className={`checkout-button ${carrinho.length === 0 || loading ? 'disabled-button' : ''}`}
         >
-          Finalizar Compra
+          Finalizar Compra.
         </button>
       </div>
     </div>
