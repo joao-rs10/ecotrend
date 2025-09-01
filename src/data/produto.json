@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "nome": "Camiseta de Algodão Orgânico",
+    "descricao": "Feita com 100% algodão orgânico, macia e respirável.",
+    "preco": 85.00,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Camiseta",
+    "categoria": "roupas"
+  },
+  {
+    "id": 2,
+    "nome": "Sabonete Artesanal de Lavanda",
+    "descricao": "Ingredientes 100% naturais, sem aditivos químicos.",
+    "preco": 25.50,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Sabonete",
+    "categoria": "beleza"
+  },
+  {
+    "id": 3,
+    "nome": "Caneca de Bambu",
+    "descricao": "Alternativa sustentável e reutilizável ao plástico.",
+    "preco": 45.00,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Caneca",
+    "categoria": "casa"
+  },
+  {
+    "id": 4,
+    "nome": "Cabo USB Biodegradável",
+    "descricao": "Carregamento rápido com material que se decompõe.",
+    "preco": 99.90,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Cabo+USB",
+    "categoria": "tecnologia"
+  },
+  {
+    "id": 5,
+    "nome": "Jaqueta de Fibras Recicladas",
+    "descricao": "Quente e estilosa, feita a partir de garrafas PET recicladas.",
+    "preco": 199.90,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Jaqueta",
+    "categoria": "roupas"
+  },
+  {
+    "id": 6,
+    "nome": "Bálsamo Labial Vegano",
+    "descricao": "Hidratação profunda sem testes em animais.",
+    "preco": 22.00,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Balsamo",
+    "categoria": "beleza"
+  },
+  {
+    "id": 7,
+    "nome": "Kit de Talheres de Bambu",
+    "descricao": "Perfeito para levar na bolsa e evitar o uso de plástico.",
+    "preco": 55.00,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Talheres",
+    "categoria": "casa"
+  },
+  {
+    "id": 8,
+    "nome": "Carregador Solar Portátil",
+    "descricao": "Compacto e eficiente, carrega seus dispositivos com energia solar.",
+    "preco": 249.90,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Carregador",
+    "categoria": "tecnologia"
+  },
+  {
+    "id": 9,
+    "nome": "Copo Retrátil de Silicone",
+    "descricao": "Reutilizável e fácil de carregar, para bebidas quentes ou frias.",
+    "preco": 35.00,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Copo",
+    "categoria": "casa"
+  },
+  {
+    "id": 10,
+    "nome": "Escova de Dente de Bambu",
+    "descricao": "Biodegradável e com cerdas macias, alternativa ecológica ao plástico.",
+    "preco": 15.00,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Escova",
+    "categoria": "beleza"
+  },
+  {
+    "id": 11,
+    "nome": "Mochila de Lona Reciclada",
+    "descricao": "Design moderno e resistente, feita com lona de caminhão reciclada.",
+    "preco": 299.00,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Mochila",
+    "categoria": "roupas"
+  },
+  {
+    "id": 12,
+    "nome": "Kit de Limpeza Ecológico",
+    "descricao": "Produtos de limpeza 100% naturais e concentrados, para diluir.",
+    "preco": 75.50,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Limpeza",
+    "categoria": "casa"
+  },
+  {
+    "id": 13,
+    "nome": "Fone de Ouvido de Madeira",
+    "descricao": "Feito com madeira certificada, oferece som de alta qualidade e design único.",
+    "preco": 180.00,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Fone",
+    "categoria": "tecnologia"
+  },
+  {
+    "id": 14,
+    "nome": "Creme Hidratante Corporal",
+    "descricao": "Com manteiga de karité e óleos essenciais, hidratação profunda e natural.",
+    "preco": 58.00,
+    "imagem": "https://placehold.co/400x300/a8df9e/1e4a2d?text=Creme",
+    "categoria": "beleza"
+  }
+]
