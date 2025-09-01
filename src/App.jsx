@@ -134,3 +134,16 @@ const App = () => {
         />
       </main>
 
+<CartSidebar
+        carrinho={carrinho}
+        isCarrinhoAberto={isCarrinhoAberto}
+        setIsCarrinhoAberto={setIsCarrinhoAberto}
+        removerDoCarrinho={removerDoCarrinho}
+        finalizarCompra={finalizarCompra}
+        loading={loading}
+      />
+    </div>
+  );
+};
+
+export default App;
