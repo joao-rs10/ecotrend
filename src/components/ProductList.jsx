@@ -17,7 +17,7 @@ const ProductList = ({ produtos, loading, adicionarAoCarrinho }) => {
               className="product-image"
               onError={(e) => {
                 e.target.onerror = null;
-                e.target.src = https://placehold.co/400x300/e0e0e0/555?text=EcoTrend;
+                e.target.src = https//placehold.co/400x300/e0e0e0/555?text=EcoTrend;
               }}
             />
             <div className="product-details">
