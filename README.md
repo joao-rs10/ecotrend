@@ -1,12 +1,25 @@
-# React + Vite
+EcoTrend: E-commerce de Produtos Sustentáveis
+1. Conceito Principal:
+O EcoTrend é uma plataforma de comércio eletrônico (e-commerce) projetada para vender uma variedade de produtos com foco em sustentabilidade e consciência ecológica. O nome "EcoTrend" (Tendência Ecológica) e a seleção de produtos indicam claramente que o nicho de mercado são os consumidores que buscam alternativas de consumo que respeitam o meio ambiente.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. Produtos e Categorias:
+A loja oferece um catálogo diversificado de produtos ecológicos, organizados de forma intuitiva. As categorias visíveis na imagem incluem:
 
-Currently, two official plugins are available:
+Roupas e Acessórios (ex: Camiseta de Algodão Orgânico)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Beleza e Cuidados (ex: Sabonete Artesanal de Lavanda)
 
-## Expanding the ESLint configuration
+Itens para Casa (ex: Caneca de Bambu)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tecnologia Verde (ex: Cabo USB Biodegradável)
+
+Os produtos em destaque reforçam essa proposta: são orgânicos, artesanais, feitos de materiais sustentáveis (bambu) ou biodegradáveis.
+
+3. Funcionalidades da Plataforma:
+A interface do site demonstra funcionalidades essenciais para uma boa experiência de compra online:
+
+Catálogo de Produtos: Os itens são exibidos em um formato de grade limpo, cada um com uma imagem, nome, breve descrição, preço e um botão de ação ("ADICIONAR").
+
+Sistema de Filtragem: Os usuários podem facilmente refinar sua busca por Categoria de produto e por uma faixa de Preço Máximo, tornando a navegação mais eficiente.
+
+Carrinho de Compras: Um ícone de carrinho visível no topo da página indica os itens selecionados pelo usuário, uma funcionalidade padrão e indispensável para qualquer e-commerce.
