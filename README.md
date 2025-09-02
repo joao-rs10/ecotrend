@@ -1,4 +1,10 @@
 EcoTrend: E-commerce de Produtos Sustentáveis
+
+integrantes: 
+João Vitor Reis Silva  RM:563115
+Victor Henry Melchior Camra     RM: 564222
+Erick Gabriel Ferreira dos Santos   RM: 565144
+
 1. Conceito Principal:
 O EcoTrend é uma plataforma de comércio eletrônico (e-commerce) projetada para vender uma variedade de produtos com foco em sustentabilidade e consciência ecológica. O nome "EcoTrend" (Tendência Ecológica) e a seleção de produtos indicam claramente que o nicho de mercado são os consumidores que buscam alternativas de consumo que respeitam o meio ambiente.
 
